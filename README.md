@@ -19,3 +19,54 @@ Take three variables as input and add them without using the + operator (Use you
 15)	Use the operation p-(-q)-(-r) 
 16)	Print the Sum
 17)	END
+
+
+
+
+
+
+( PSEUDOCODE )
+Task No 1:
+Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+one being used for the operator:
+
+1)	    START
+2)	
+3)	    Input no 1= variable no 1
+4)	    Input no 2= Variable no 2
+5)	    Input No 3= Variable no 3
+6)	    Take variable sum
+7)	    IF Operator is “+”
+8)	    PRINT “no1+no2+no3”
+9)	    IF Operator is “-”
+10)	PRINT “No1-No2-No3”
+11)	END
+
+
+
+                                   ALGORIHTM
+Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
+If so, determine if it’s an even number or odd number as well.
+1)	Take Nth number
+2)	Take n number
+3)	 Use operator which Divides nth number by n
+4)	Divide the n/nth number 
+5)	IF nth number is Even then Reminder is odd number
+6)	IF nth number is Odd then reminder is Even.
+7)	 End
+
+
+ 
+                            ALGORITHM
+Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%):
+1)	 Take the Operator “+”
+2)	Take the operator “-”
+3)	Take the operator "*”
+4)	Take the operator "/”
+5)	Use the material to Make the calculator
+6)	 Make the calculator which include all the operators.
+
+
+
+
+
