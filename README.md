@@ -6,4 +6,4 @@ which include
 > Pseudocode
 > Algorithms
 >
->![Web development]https://api.reliasoftware.com/uploads/web_development_is_important_176fa0618e.jpg
+>![Web development](https://api.reliasoftware.com/uploads/web_development_is_important_176fa0618e.jpg)
