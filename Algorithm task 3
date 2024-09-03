@@ -1,0 +1,17 @@
+Task 2:
+Implement an algorithm for making a simple calculator with all the operators (+, -,*,/%):
+
+•	Start 
+•	Ask user to input Two number
+•	Ask user to input operator (+,-,*,/,%)
+•	If user input “+” add both numbers
+•	Print the Result
+•	If user input “-” Subtract first from second number
+•	Print the Result
+•	If user input “*” Multiply both numbers
+•	Print the Result
+•	If user input “/” Divide first from second number
+•	Print the Result
+•	If user input “%” Divide first from second number
+•	Print the Result (Remainder)
+•	End
